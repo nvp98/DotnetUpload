@@ -4,6 +4,7 @@
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
     <_SelectedScaffolderID>ApiControllerWithActionsScaffolder</_SelectedScaffolderID>
     <_SelectedScaffolderCategoryPath>root/Common</_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>D:\OneDrive - hoaphat.com.vn\Working\TaiLieu\BE\NET.CORE\UploadExcelAPI\UploadExcelAPI\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
